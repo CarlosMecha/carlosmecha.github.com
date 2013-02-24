@@ -1,0 +1,12 @@
+#header nav {
+ background: none;
+}
+
+#title .subtitle span {
+  text-decoration: line-through;
+}
+
+#footer .credits {
+  text-align: center;
+  font-size: 9px;
+}

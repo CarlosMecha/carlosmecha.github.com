@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
- {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+ {% for post in site.categories['portfolio'] %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.slug }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -19,6 +19,11 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
+                                {% if post.role %}
+                                    <li>Role:
+                                        <strong>{{ post.role }}</strong>
+                                    </li>
+                                {% endif %}
                                 {% if post.start-date %}
                                     <li>Start date:
                                         <strong>{{ post.start-date }}</strong>
@@ -31,11 +36,11 @@
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                        </strong>
+                                        <strong>{{ post.category }}</strong>
                                     </li>
                                 {% endif %}
                             </ul>
+                            <div class="post-content">{{ post.content }}</div>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

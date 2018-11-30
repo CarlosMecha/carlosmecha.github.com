@@ -1,0 +1,18 @@
+---
+layout: default
+slug: rlf
+name: Remote Laboratory Framework
+start-date: September 2010
+end-date: October 2011
+img: cabin.png
+alt: image-alt
+role: Designer - Developer
+category: Distributed systems
+link:
+    name: Source Code
+    href: https://github.com/CarlosMecha/remote-laboratory-framework
+description: A framework to connect eletronic tools to a central system for remote access.
+---
+
+### Master Dissertation
+

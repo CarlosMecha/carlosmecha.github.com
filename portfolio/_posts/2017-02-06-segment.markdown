@@ -7,6 +7,9 @@ alt: image-alt
 start-date: February 2017
 role: Engineering Manager - Distributed Systems Engineer
 category: User data pipelines
+link:
+    name: Segment IO
+    href: https://segment.com
 description: Segment provides the customer data infrastructure that helps businesses put their customers first.
 ---
 

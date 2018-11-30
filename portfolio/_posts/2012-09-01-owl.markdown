@@ -1,0 +1,17 @@
+---
+layout: default
+slug: owl-systems
+start-date: September 2012
+end-date: April 2014
+img: game.png
+alt: image-alt
+category: Platform development
+role: Co-founder, CTO
+link:
+    name: Owl Systems
+    href: https://www.linkedin.com/company/owl-systems/
+description: Owl- Systems develops and commercialize software for schools, facilitating the job of the teachers both in a more interesting learning experience for the kids, and in a more effective communication with the parents.
+
+---
+
+### Responsabilities

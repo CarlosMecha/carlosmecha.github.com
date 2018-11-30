@@ -1,0 +1,27 @@
+
+    <!-- Blog Preview Section -->
+    <section id="blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Blog</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <ul>
+                    {% assign first_posts = site.categories['blog'] | slice:0, 6 %}
+                    {% for post in first_posts %}
+                        <li>
+                            <a href="/blog/{{ post.slug }}" class="portfolio-link">{{ post.title }}</a>
+                        </li>
+                    {% endfor %}
+                    {% if site.categories['blog'].size > 6 %}
+                        <li>
+                            <a href="/blog" class="portfolio-link" data-toggle="modal">See more...</a>
+                        </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+    </section>

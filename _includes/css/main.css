@@ -334,6 +334,12 @@ footer h3 {
     margin-bottom: 30px;
 }
 
+footer ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+    font-size: 20px;
+}
+
 footer .footer-above {
     padding-top: 50px;
     background-color: #{{ site.color.secondary }};

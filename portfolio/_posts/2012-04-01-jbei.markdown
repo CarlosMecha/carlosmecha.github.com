@@ -4,8 +4,7 @@ slug: jbei
 name: Joint BioEnergy Institute
 start-date: April 2012
 end-date: September 2012
-img: safe.png
-alt: image-alt
+img: jbei.png
 role: Software Developer
 category: Scientific Tooling
 link:

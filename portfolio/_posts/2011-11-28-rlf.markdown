@@ -4,8 +4,7 @@ slug: rlf
 name: Remote Laboratory Framework
 start-date: September 2010
 end-date: October 2011
-img: cabin.png
-alt: image-alt
+img: rlf.png
 role: Designer - Developer
 category: Distributed systems
 link:

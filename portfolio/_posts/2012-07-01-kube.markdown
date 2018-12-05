@@ -1,0 +1,13 @@
+---
+layout: default
+slug: kube
+name: Kube Services
+start-date: July 2012
+img: kube.png
+role: Distributed Systems Engineer - Freelancer
+category: Freelancer
+description: Work as a freelancer.
+
+---
+
+### Responsabilities

@@ -4,8 +4,7 @@ slug: pulselocker
 name: Pulselocker Inc
 start-date: July 2014
 end-date: January 2017
-img: circus.png
-alt: image-alt
+img: pulselocker.png
 role: Ingestion engineer
 category: Music streaming service
 link:

@@ -76,6 +76,10 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+#profile {
+    width: 25%;
+}
+
 .img-centered {
     margin: 0 auto;
 }

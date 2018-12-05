@@ -1,10 +1,10 @@
 ---
 layout: default
+name: Owl Systems
 slug: owl-systems
 start-date: September 2012
 end-date: April 2014
-img: game.png
-alt: image-alt
+img: owl-systems.png
 category: Platform development
 role: Co-founder, CTO
 link:

@@ -409,6 +409,8 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .post-content {
     text-align: left;
+    font-size: 20px;
+    padding: 1em 0 1em 0;
 }
 
 .portfolio-modal .modal-content h2 {

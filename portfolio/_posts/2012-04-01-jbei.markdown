@@ -15,3 +15,5 @@ description: The Joint BioEnergy Institute (JBEI) is a U.S. Department of Energy
 ---
 
 ### Responsabilities
+- Maintained a resources management portal integrated with Atlassian Confluence, Google Groups, Jasper Reports and LDAP. Implemented with JEE and JavaScript. 
+- Developed a performance management system for employees embedded into Atlassian Confluence.

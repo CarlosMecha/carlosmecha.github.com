@@ -6,8 +6,13 @@ start-date: July 2012
 img: kube.png
 role: Distributed Systems Engineer - Freelancer
 category: Freelancer
-description: Work as a freelancer.
+description: From time to time, I work as a freelancer for small companies/teams.
 
 ---
 
-### Responsabilities
+### Services
+- Design and implement ETL processes.
+- Consulting for project roadmaps.
+- Design projects to integrate with 3rd-party APIs.
+- CI and test audits.
+- But wait! There is [more](https://tenor.com/view/but-wait-theres-more-gif-9592017)...

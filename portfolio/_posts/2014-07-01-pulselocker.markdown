@@ -15,3 +15,7 @@ description: Pulselocker is the first music streaming service built just for DJs
 ---
 
 ### Responsabilities
+- Music ingestion engine: Designed and developing a container-based system to synchronize data between databases like Cassandra, Couchbase, Postgres, Elasticsearch and Redis.
+- Music delivery platform: Maintaining fulfillment pipes between Pulselocker’s infrastructure and content providers.
+- Integrating Pulselocker backend services with Celery and RabbitMQ.
+- Helping to maintain the Pulselocker's API.

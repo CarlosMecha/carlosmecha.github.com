@@ -15,3 +15,6 @@ description: A framework to connect eletronic tools to a central system for remo
 
 ### Master Dissertation
 
+Designed and developed a fully-functional distributed system for teachers and students of mechanical and industrial engineering. The platform provides remote access to laboratory hardware (motors, drills, computers, cameras, measure instruments, etc). Implemented using JEE, C, Visual C++ and Android.
+
+Mark: A+ with honors

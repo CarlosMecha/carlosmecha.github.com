@@ -12,6 +12,19 @@ link:
 description: Segment provides the customer data infrastructure that helps businesses put their customers first.
 ---
 
-### Responsabilities
+### As Engineering Manager
 
-* Manage First Class Destinations team: 4-people team
+- Set weekly, quarterly and yearly goals for Segment's Destinations team.
+- Establish priorities and evaluate risks of our engineering projects.
+- Direct the team during the process of formalizing project proposals. 
+
+### As Software Engineer
+
+- Identify efficiency tweaks and improvements for nodejs proecesses. 
+- Maintain Segment's Android integrations.
+- Update our CI and test processes to increase engineering efficiency and speed.
+- Helping to maintain Segment's massive AWS infrastructure (+6000 ECS tasks, +1.8PB of S3 data, +350 production databases, +1000 EC2 instances).
+- Desgined and wrote BigQuery and Snowflake warehouse connectors.
+- As part of the Warehouses team, I was focused on desig and implement the V2 of Segment's Warehouses product. Syncing currently more than 15 billion rows per day to +6000 warehouses.
+- Paired with the success team for technical calls with our customers. 
+- As side project, I optimized the warehouses dataflow, saving $300,000 a year on AWS costs.

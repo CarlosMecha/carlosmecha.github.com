@@ -14,4 +14,9 @@ description: Owl- Systems develops and commercialize software for schools, facil
 
 ---
 
-### Responsabilities
+### As CTO
+Led the Owl engineering team to develop iOS and Android apps.
+
+
+### As Software Engineer
+Created a management platform for educational centers, using JEE stack + Spring Framework and enhanced Javascript clients (HTML5 + Backbone.js).

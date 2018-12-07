@@ -9,18 +9,14 @@
                 </div>
             </div>
             <div class="row">
-                <ul>
-                    {% assign first_posts = site.categories['blog'] | slice:0, 6 %}
-                    {% for post in first_posts %}
-                        <li>
-                            <a href="/blog/{{ post.slug }}" class="portfolio-link">{{ post.title }}</a>
-                        </li>
+                <ul class="blog-posts">
+                    {% for post in site.posts %}
+                        {% if post.categories.size == 0 %}
+                            <li>
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                            </li>
+                        {% endif %}
                     {% endfor %}
-                    {% if site.categories['blog'].size > 6 %}
-                        <li>
-                            <a href="/blog" class="portfolio-link" data-toggle="modal">See more...</a>
-                        </li>
-                    {% endif %}
                 </ul>
             </div>
         </div>

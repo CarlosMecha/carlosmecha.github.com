@@ -1,4 +1,9 @@
-   <!-- Navigation -->
+    {% assign prefix = "" %}
+    {% if include.external_nav == true %}
+        {% assign prefix = site.url | append: "/" %}
+    {% endif %}
+        
+    <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -9,23 +14,23 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+                <a class="navbar-brand" href="{{ prefix }}#page-top">{{ site.title }}</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="#page-top"></a>
+                        <a href="{{ prefix }}#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="{{ prefix }}#portfolio">Portfolio</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#blog">Blog</a>
+                        <a href="{{ prefix }}#blog">Blog</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
+                        <a href="{{ prefix }}#about">About</a>
                     </li>
                 </ul>
             </div>

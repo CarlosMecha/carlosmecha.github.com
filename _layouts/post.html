@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="post">
+    {% include nav.html external_nav=true %}
+
+    <!-- Header -->
+    <header id="title">
+        <div class="container">
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.date }}</p>
+        </div>
+    </header>
+
+    <section id="content">
+        {{ content }}
+    </section>
+
+    <a href="#page-top">Back to top</a>
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

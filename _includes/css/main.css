@@ -250,6 +250,15 @@ section.success {
     z-index: 2;
 }
 
+#blog .blog-posts {
+    list-style-type: none;
+    font-size: 25px;
+}
+
+#blog .blog-posts li {
+    margin: 1em;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -470,4 +479,13 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.post #bottom {
+    text-align: center;
+}
+
+.post #bottom .btn:hover, .post #bottom .btn:focus {
+    color: #{{ site.color.secondary }};
+    text-decoration: none;
 }

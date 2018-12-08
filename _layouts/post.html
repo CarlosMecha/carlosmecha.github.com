@@ -2,22 +2,36 @@
 <html>
     {% include head.html %}
     <body id="page-top" class="post">
-    {% include nav.html external_nav=true %}
+        {% include nav.html external_nav=true %}
 
-    <!-- Header -->
-    <header id="title">
-        <div class="container">
-            <h2>{{ page.title }}</h2>
-            <p>{{ page.date }}</p>
-        </div>
-    </header>
+        <header id="title">
+            <div class="container">
+                <h2>{{ page.title }}</h2>
+                {% if page.subtitle %}
+                    <h4>{{ page.subtitle }}</h4>
+                {% endif %}
+                <p>{{ page.date }}</p>
+            </div>
+        </header>
 
-    <section id="content">
-        {{ content }}
-    </section>
+        <section id="content" class="container">
+            <div class="container">
+                {{ content }}
+            </div>
+        </section>
 
-    <a href="#page-top">Back to top</a>
-    {% include footer.html %}
-    {% include js.html %}
+        <section id="bottom">
+            <div class="container">
+                {% if page.footer %}
+                    <p>{{ page.footer }}</p>
+                {% endif %}
+                <a href="#page-top" class="btn btn-lg">
+                    <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to top
+                </a>
+            </div>
+        </section>
+
+        {% include footer.html %}
+        {% include js.html %}
     </body>
 </html>

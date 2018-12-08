@@ -1,0 +1,19 @@
+---
+layout: default
+slug: jbei
+name: Joint BioEnergy Institute
+start-date: April 2012
+end-date: September 2012
+img: jbei.png
+role: Software Developer
+category: Scientific Tooling
+link:
+    name: JBEI
+    href: https://www.jbei.org
+description: The Joint BioEnergy Institute (JBEI) is a U.S. Department of Energy (DOE) Bioenergy Research Center dedicated to developing advanced biofuels—liquid fuels derived from the solar energy stored in plant biomass that can replace gasoline, diesel and jet fuels.
+
+---
+
+### Responsabilities
+- Maintained a resources management portal integrated with Atlassian Confluence, Google Groups, Jasper Reports and LDAP. Implemented with JEE and JavaScript. 
+- Developed a performance management system for employees embedded into Atlassian Confluence.

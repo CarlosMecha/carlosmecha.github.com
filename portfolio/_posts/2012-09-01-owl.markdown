@@ -1,0 +1,22 @@
+---
+layout: default
+name: Owl Systems
+slug: owl-systems
+start-date: September 2012
+end-date: April 2014
+img: owl-systems.png
+category: Platform development
+role: Co-founder, CTO
+link:
+    name: Owl Systems
+    href: https://www.linkedin.com/company/owl-systems/
+description: Owl- Systems develops and commercialize software for schools, facilitating the job of the teachers both in a more interesting learning experience for the kids, and in a more effective communication with the parents.
+
+---
+
+### As CTO
+Led the Owl engineering team to develop iOS and Android apps.
+
+
+### As Software Engineer
+Created a management platform for educational centers, using JEE stack + Spring Framework and enhanced Javascript clients (HTML5 + Backbone.js).

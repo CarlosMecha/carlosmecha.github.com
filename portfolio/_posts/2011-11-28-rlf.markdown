@@ -1,0 +1,20 @@
+---
+layout: default
+slug: rlf
+name: Remote Laboratory Framework
+start-date: September 2010
+end-date: October 2011
+img: rlf.png
+role: Designer - Developer
+category: Distributed systems
+link:
+    name: Source Code
+    href: https://github.com/CarlosMecha/remote-laboratory-framework
+description: A framework to connect eletronic tools to a central system for remote access.
+---
+
+### Master Dissertation
+
+Designed and developed a fully-functional distributed system for teachers and students of mechanical and industrial engineering. The platform provides remote access to laboratory hardware (motors, drills, computers, cameras, measure instruments, etc). Implemented using JEE, C, Visual C++ and Android.
+
+Mark: A+ with honors

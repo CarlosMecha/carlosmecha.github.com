@@ -1,6 +1,51 @@
+# Site settings
+title: Carlos Mecha
+email: cloud@cmecha.com
+url: https://carlosmecha.github.io
+description: "Random system thoughts."
+keywords: "cloud stuff, distributed systems"
+skills: "Distributed Systems Engineer - Engineering Manager"
+meta_author: Mecha Carlos
+
+# Google webmaster tools
+google_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Carlos Mecha
+
+contact:
+  - title: envelope-o
+    url: mailto:cloud@cmecha.com?Subject=Contact
+  - title: twitter
+    url: http://twitter.com/mechacarlos
+  - title: github
+    url: http://github.com/CarlosMecha
+  - title: linkedin
+    url: https://www.linkedin.com/in/mechacarlos/
+
+address:
+  - <i class="fa fa-star" title="Currently"></i> San Francisco, CA
+  - Osaka, Japan
+  - Madrid, Spain
+
+services:
+  - Distributed Systems
+  - Databases
+  - ETL
+  - Tooling
+
+# Build settings
 markdown: rdiscount
-pygments: true
 safe: true
 lsi: false
 highlighter: rouge
 exclude: ["vendor"]
+permalink: pretty

@@ -1,64 +1,15 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/stylesheets/styles.css">
-    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
-    <link rel="stylesheet" href="/stylesheets/custom.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="/javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include blog_preview.html %}
+    {% include about.html %}
 
-    <!-- Analytics -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-47065255-1', 'carlosmecha.github.io');
-      ga('send', 'pageview');
-
-    </script>
-
-  </head>
-  <body>
-    <div id="header">
-      <nav>
-        <li><a href="http://carlosmecha.github.com/">Home</a></li>
-        <li><a href="https://twitter.com/">Twitter</a></li>
-        <li><a href="https://github.com/CarlosMecha">GitHub</a></li>
-        <li><a href="http://www.linkedin.com/in/mechacarlos/en">LinkedIn</a></li>
-        <li><a href="https://github.com/CarlosMecha/remote-laboratory-framework">RLF</a></li>
-        <li><a href="https://segment.com">Segment</a></li>
-        <li><a href="http://pulselocker.com/">Pulselocker</a></li>
-        <li><a href="http://owl-systems.com/">Owl</a></li>
-      </nav>
-    </div>
-
-    <div class="wrapper">
-
-      <section>
-        {{ content }}
-      </section>
-
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
-    <div id="footer">
-      <hr>
-      <div class="credits">
-        Blog maintained by <a href="https://github.com/CarlosMecha">Carlos Mecha</a>
-        Hosted on GitHub Pages. Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a>
-      </div>
-    </div>
-  </body>
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+    </body>
 </html>

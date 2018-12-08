@@ -43,7 +43,7 @@ services:
   - Tooling
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 safe: true
 lsi: false
 highlighter: rouge

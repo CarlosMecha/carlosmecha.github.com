@@ -1,0 +1,23 @@
+---
+layout: default
+slug: mapbox
+name: Mapbox
+img: mapbox.png
+start-date: April 2020
+role: Engineering Manager
+category: Maps
+link:
+    name: Mapbox
+    href: https://mapbox.com
+description: Maps and location for developers
+---
+
+### What am I doing?
+
+- Directing a team of 8 engineers, currently focused on stability improvements after we launched a
+  new service [MTS](https://www.mapbox.com/blog/introducing-mapbox-tiling-service) in October 2020.
+- Hiring new engineers to keep shipping new features. (We are [hiring](https://www.mapbox.com/careers/#open-roles)!)
+- Drafting the roadmap for 2021.
+- Introducing Agile strategies to a big team.
+- Advocating for increasing resources on technical planning and documentation.
+- Learning a lot and creating maps.

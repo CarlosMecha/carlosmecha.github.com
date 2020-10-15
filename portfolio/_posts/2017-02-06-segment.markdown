@@ -1,30 +1,46 @@
 ---
 layout: default
 slug: segment
-name: Segment IO
+name: Segment IO (Acquired by Twilio)
 img: segment.png
 start-date: February 2017
+end-date: April 2020
 role: Engineering Manager - Distributed Systems Engineer
 category: User data pipelines
 link:
     name: Segment IO
     href: https://segment.com
-description: Segment provides the customer data infrastructure that helps businesses put their customers first.
+description: The leading Customer Data Platform
 ---
 
 ### As Engineering Manager
 
+- Directing a team of 7 engineers, responsible for mobile, web and server-side integrations (more
+  than 250).
+- Providing support, growth and mentorship to the engineers in the team, from junior to tech leads.
+- Hiring new engineers. Added 5 new engineers to the team in the last year, some of them already
+  promoted to next levels.
+- Shipping multi-month customer projects, coordinating Solution Architects, engineers and setting
+  expectations, to make customers happy.
+- Designed and a roadmap to allow the team to ship new products/features instead of spending most of
+  our resources maintaining legacy services.
+- Implemented a new program to include external contractors to build and maintain destinations.
+  Positive ROI after first month.
 - Set weekly, quarterly and yearly goals for Segment's Destinations team.
 - Establish priorities and evaluate risks of our engineering projects.
 - Direct the team during the process of formalizing project proposals. 
 
+
 ### As Software Engineer
 
-- Identify efficiency tweaks and improvements for nodejs proecesses. 
+- Improved performance of Segment's main destination router from running +10000 tasks to only 800,
+  reducing operational costs and risks while deployments.
 - Maintain Segment's Android integrations.
 - Update our CI and test processes to increase engineering efficiency and speed.
-- Helping to maintain Segment's massive AWS infrastructure (+6000 ECS tasks, +1.8PB of S3 data, +350 production databases, +1000 EC2 instances).
-- Desgined and wrote BigQuery and Snowflake warehouse connectors.
-- As part of the Warehouses team, I was focused on desig and implement the V2 of Segment's Warehouses product. Syncing currently more than 15 billion rows per day to +6000 warehouses.
+- Helping to maintain Segment's massive AWS infrastructure (+6000 ECS tasks, +1.8PB of S3 data, +350
+  production databases, +1000 EC2 instances).
+- Designed and developed BigQuery and Snowflake warehouse connectors.
+- As part of the Warehouses team, I was focused on design and implement the V2 of Segment's
+  Warehouses product. Syncing currently more than 15 billion rows per day to +6000 warehouses.
 - Paired with the success team for technical calls with our customers. 
 - As side project, I optimized the warehouses dataflow, saving $300,000 a year on AWS costs.

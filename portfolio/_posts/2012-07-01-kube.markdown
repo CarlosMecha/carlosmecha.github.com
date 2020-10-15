@@ -11,8 +11,10 @@ description: From time to time, I work as a freelancer for small companies/teams
 ---
 
 ### Services
+
 - Design and implement ETL processes.
 - Consulting for project roadmaps.
 - Design projects to integrate with 3rd-party APIs.
 - CI and test audits.
-- But wait! There is [more](https://tenor.com/view/but-wait-theres-more-gif-9592017)...
+
+_I really really need to remake that logo or pay someone to do it for me..._

@@ -1,9 +1,9 @@
 # Site settings
 title: Carlos Mecha
-email: cloud@cmecha.com
+email: carlos@etl.engineer
 url: https://carlosmecha.github.io
 description: "Random system thoughts."
-keywords: "cloud stuff, distributed systems"
+keywords: "etl, cloud stuff, distributed systems"
 skills: "Distributed Systems Engineer - Engineering Manager"
 meta_author: Mecha Carlos
 
@@ -23,7 +23,7 @@ footer:
 
 contact:
   - title: envelope-o
-    url: mailto:cloud@cmecha.com?Subject=Contact
+    url: mailto:carlos@etl.engineer?Subject=Contact
   - title: twitter
     url: http://twitter.com/mechacarlos
   - title: github
@@ -33,8 +33,6 @@ contact:
 
 address:
   - <i class="fa fa-star" title="Currently"></i> San Francisco, CA
-  - Osaka, Japan
-  - Madrid, Spain
 
 services:
   - Distributed Systems
@@ -47,5 +45,5 @@ markdown: kramdown
 safe: true
 lsi: false
 highlighter: rouge
-exclude: ["vendor"]
+exclude: ["vendor", "start.sh"]
 permalink: pretty

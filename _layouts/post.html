@@ -10,7 +10,7 @@
                 {% if page.subtitle %}
                     <h4>{{ page.subtitle }}</h4>
                 {% endif %}
-                <p>{{ page.date }}</p>
+                <p>{{ page.date | date: "%b %d, %Y" }}</p>
             </div>
         </header>
 

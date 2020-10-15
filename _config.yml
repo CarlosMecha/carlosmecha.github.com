@@ -45,5 +45,5 @@ markdown: kramdown
 safe: true
 lsi: false
 highlighter: rouge
-exclude: ["vendor", "start.sh"]
+exclude: ["vendor", "start.sh", "CNAME"]
 permalink: pretty

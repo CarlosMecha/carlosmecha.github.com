@@ -1,0 +1,37 @@
+---
+layout: post
+title: A tiny ETL
+subtitle: Is it really Big Data™?
+slug: tiny-etl
+---
+
+
+I've been working with databases and networks since the beginning of my career and I've seen a lot
+of cool and weird stuff. It always amaze me how as engineers we can choose the complexity of our
+applications and systems. A small ecomerce shop running in a server on a basement? For sure. A blog
+running on Kubernetes? Of course! It needs to scale! You can see many examples out there of small
+companies running cloud infrastructures that require teams and teams of engineers to maintain. And
+some of them will never have more than 1k concurrent users. Microservices! Everything must be
+self-contained and independent from other services (easier said than done). If you are an engineer
+working on web applications, I'm sure you are familiar with this.
+
+But what if I told you that it also happens on data pipelines? The Big Data movement (a.k.a
+microservices for data) is a similar approach where every system produces huge amount of data that
+needs to be processed, stored, and... probably never queried. ETL processes (transforming data) have
+been part of the computing science since the very beginning, but recently we discovered how to make
+them more complex, bigger scale, I mean huge scale. If we can process more data and faster (well,
+sometimes), we should do it, right? My previous "me" will say a strong yes.
+
+I was lucky enough to work at Segment for 3 years, in both their batch and streaming data pipelines.
+Segment processes on average 300000 events per second (maybe this number has grown) and 1.5 million
+events during peaks. These events are data represented as JSON with arbitrary number of fields. Each
+event is validated, archived to S3 and sent to a warehouse or one of the Segment destinations.
+While working on their warehouses product, we were able to sync 14 billion rows a day into 8000
+warehouses (again, probably now is more). They handle real Big Data. 
+
+During that period, I had the opportunity to discover how wrong I was (and learn a couple of other
+things along the way).
+
+Do you need to process a couple of millions of rows of a database?
+Maybe use Spark, or event better! Implement your own solution! 50GB a day? Let's go with Hadoop.
+_(This post took x hours to write. I estimate a normal human being would take 15 mins)_

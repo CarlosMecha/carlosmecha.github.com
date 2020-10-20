@@ -124,7 +124,7 @@ solutions.
 
 I'm not sure if these lessons are a common experience for people who works (or worked) at Segment,
 but I just want to thank everyone I worked with during these 3 short, fast and crazy years. I
-would a completely different person if I didn't join Segment at that time.
+would a completely different person and engineer if I didn't join Segment at that time.
 
 
 _(This post took 3 hours to write. I estimate a normal human being would take 1 hour)_

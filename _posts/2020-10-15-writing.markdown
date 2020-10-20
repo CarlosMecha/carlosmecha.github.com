@@ -75,7 +75,7 @@ To be conservative, I'm going to write one post a week until **January 1st, 2021
 _(Oh! Screen break!)_
 
 1. [x] Week of October 12. Yeeey
-1. [ ] Week of October 19
+1. [x] Week of October 19: [Segment]({% post_url 2020-10-20-segment-acquisition %})
 1. [ ] Week of October 26
 1. [ ] Week of November 2
 1. [ ] Week of November 9

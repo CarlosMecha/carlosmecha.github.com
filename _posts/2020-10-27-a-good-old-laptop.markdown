@@ -25,9 +25,8 @@ some gaming, checking email and banks, watching YouTube, and hacking in general.
 
 But how long this laptop would last? I was curious, so I stored my old Ideapad in a box, changed the
 hard disk of the ThinkPad for a SSD, upgraded the RAM and bought a new battery. And the rest is
-history. I'm writing this post in the same computer. The battery lasts for 4 hours (5 if I don't use
-the browser much). I've also bought the "Tablet" version, with a touch screen that can rotate 365
-degrees, however I don't use it as much.
+history. I'm writing this post in the same computer.  I've also bought the "Tablet" version, with a
+touch screen that can rotate 365 degrees, however I don't use it as much.
 
 Since then, I've discovered a couple of things.
 
@@ -40,7 +39,7 @@ having a video call with a note taking application would be OK, if that applicat
 based.
 
 After a while, that affected how I was approaching tasks in my TODO list. I was grouping tasks by
-what programs will use and as a side effect, I was spending less time in context switching. Also I
+which programs will use and as a side effect, I was spending less time in context switching. Also I
 was ignoring notifications because switching to the other window will take a painful 2-3 seconds (we
 have became too spoiled with new technologies). This works too for browser tabs. Some sites are
 seriously slow, like LinkedIn. When I open a tab and type the address, while the page is loading, I
@@ -111,7 +110,7 @@ perfectly. But with all honestly, if you are not a Linux user, good luck.
 Most of the Electron apps will run but will slow you down a bit. Anything created by JetBrains would
 be your worst nightmare. Applications that require a lot of screen "real state" are difficult to
 handle due to the screen resolution (however if you have an external screen, this is not a
-problem).
+problem). The battery lasts for 4 hours (5 if I don't use the browser much).
 
 All these are inconveniences, but I've always found workarounds, it all depends how much you are
 invested in this kind of experience and how much you are willing to give up.

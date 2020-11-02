@@ -77,7 +77,7 @@ _(Oh! Screen break!)_
 1. [x] Week of October 12. Yeeey
 1. [x] Week of October 19: [Segment]({% post_url 2020-10-20-segment-acquisition %})
 1. [x] Week of October 26: [A good old laptop]({% post_url 2020-10-27-a-good-old-laptop %})
-1. [ ] Week of November 2
+1. [x] Week of November 2: [Pulselocker]({% post_url 2020-11-02-pulselocker-days %})
 1. [ ] Week of November 9
 1. [ ] Week of November 16
 1. [ ] Week of November 23

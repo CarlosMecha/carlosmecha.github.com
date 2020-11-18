@@ -22,7 +22,7 @@ next feature that can provide value to a customer.
 So at the end of September, right before the team was ready to launch [MTS Public
 beta](https://www.mapbox.com/blog/introducing-mapbox-tiling-service), I started to think how the
 teams can help our PM (hi Bersabel and Sunny!). We already had a "Support Product" initiative but
-wanted turn that up a notch. From all the options, I went for the "Roadmap Proposal".
+wanted take that up a notch. From all the options, I went for the "Roadmap Proposal".
 
 The idea is simple. Let engineers to create a proposal where we list all the initiatives and
 projects we would like to work next, listed by priority. Each project would contain a summary of the

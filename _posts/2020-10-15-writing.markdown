@@ -79,7 +79,7 @@ _(Oh! Screen break!)_
 1. [x] Week of October 26: [A good old laptop]({% post_url 2020-10-27-a-good-old-laptop %})
 1. [x] Week of November 2: [Pulselocker]({% post_url 2020-11-02-pulselocker-days %})
 1. [x] Week of November 9: [A team's vision]({% post_url 2020-11-11-a-teams-vision %})
-1. [ ] Week of November 16
+1. [x] Week of November 16: [Experiment: Roadmap proposals]({% post_url 2020-11-18-experiment-roadmap %})
 1. [ ] Week of November 23
 1. [ ] Week of November 30
 1. [ ] Week of December 7

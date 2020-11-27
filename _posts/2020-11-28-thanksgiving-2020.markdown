@@ -1,0 +1,97 @@
+---
+layout: post
+title: Thanksgiving 2020
+subtitle: What a year!
+slug: thanksgiving-2020
+---
+
+My family and I didn't celebrate Thanksgiving until very recently. Japan and Spain don't have this
+tradition but since our 2 kids were born here, we decided to cook a turkey like any other American
+family.
+
+This year has been estrange at best, like taken from a sci-fi novel. A pandemic has hit hard every
+country on Earth, and has change the lifestyle of many of us. But humans adapt (governments do not,
+but that's material for another post).
+
+For my family, we have been extremely lucky in all aspects. Life changes due to the lockdown were
+just mere inconvenience so far. And we are very aware that many families are not this lucky. So in
+this short post, I'm saying thank you for all things that has happened to us during this _raro de
+cojones_ year.
+
+
+### The family grew
+
+At the beginning of 2020, our second daughter was born. A bit earlier than expected but no
+complications. As I write this, she's "chewing" a piece of bread like there's no tomorrow. Taking
+care of a baby during the lockdown was easier than I was expecting, since for the first two months 
+you are not supposed to go out often. Had a lot of time to play with our first daughter, make a
+homelab, and cook. She's now 10 months old and getting ready to start walking.
+
+It also has helped a lot to work from home. I'm spending more time with my daughters than ever
+before. Without commuting, I can use that extra time to get the house a bit more organized and
+clean.
+
+We've also seen more than 40 guppies born (not all are alive, but that's life). We started a tiny
+aquarium with 5 from our friend Brennan and had to expand their habitat quite a lot to make room for
+colorful and sometimes bizarre fishes.
+
+_photo of fishes_
+
+
+### Mapbox's crew
+
+I did a big transition in April. I joined Mapbox as engineering manager of their Tilesets Team. I
+was worried I made a big mistake to make such a move in a year like this one. I couldn't imagine
+what would be to start in a new company during a pandemic, onboard all remote in an industry that I
+have 0 knowledge (maps).
+
+But nothing bad happened. Onboarding was pretty smooth. I'm familiar with the technologies and the
+most important part, the crew is fantastic. A team of 15 wonderful people ready to listen to my
+rants and stupid questions about cartography and maps in general. Not all of them are using _vim_
+but little by little.
+
+Since I started, I've been learning every day about the industry, how to monetize a complex product,
+how to work on different timezones, and a hundred little tricks that help me to overcome the
+problems of not working in an office with peers.
+
+
+### Pandemic
+
+We have been following the COVID-19 recommendations as much as we can. We have seen some
+friends and family getting infected and no serious cases around us. We are also lucky that
+our community and neighbors are taking recommendations very seriously.
+
+But at some point, we had to make some changes at home to keep sanity. Since the public
+transportation wasn't (and still isn't) working well, we decided to buy a car. After 9 years living
+in a US city without one, it was a good change. We found exactly the one we needed and it's
+difficult to imagine what we would do now without it.
+
+Having a car has allow us to discover many remote places in California that don't appear on the
+travel webpages. And for the kids to see a bit of California's wild life. In some moments, the fires
+didn't make it easy, but this state is huge. Here's a series of books that can help to explore
+California: Day Hikes Around by Robert Stone.
+
+Another big change was to find a place at home that could be my permanent office set up. The closest
+space we have at home for that is a closet in our hall. I had a lot of fun setting up the ethernet,
+servers, tiny "desk" (not a desk) and a chair that can't move because there's no room. The closet is
+1.5 m by 1.5 m. Honestly I don't recommend it, but it's working so far. After 3 months working
+there, I started to feel back, arms, hands, neck and pretty much everywhere pain.
+
+_photo of the closet_
+
+All this has taught us that we would need to make even bigger changes on the long run. Not just for
+our kids but for our own sanity. San Francisco is a great city... if you don't have kids, or don't
+need to work from home.
+
+
+### Bye SF
+
+### Segment acquisition
+
+### Chicken recipe
+
+
+---
+
+Not all has been perfect for us this year, however positive things overweight the negative ones by
+far. Thank you.

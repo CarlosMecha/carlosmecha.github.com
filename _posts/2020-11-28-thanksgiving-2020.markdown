@@ -1,0 +1,165 @@
+---
+layout: post
+title: Thanksgiving 2020
+subtitle: What a year!
+slug: thanksgiving-2020
+---
+
+My family and I didn't celebrate Thanksgiving until very recently. Japan and Spain don't have this
+tradition but since our 2 kids were born in US, we decided to cook a turkey like any other American
+family.
+
+This year has been estrange at best, taken from a sci-fi novel. A pandemic has hit hard every
+country on Earth, and has change the lifestyle of many of us. But humans adapt (governments do not,
+but that's material for another post).
+
+For my family, we have been extremely lucky in all aspects. Life changes due to the lockdown were
+for the best so far. We are very aware that many families are not this lucky. So in
+this short post, I'm giving thanks for all things that has happened to us during this _weird-as-shit_ year.
+
+
+### The family grew
+
+At the beginning of 2020, our second daughter was born. A bit earlier than expected but no
+complications. As I write this, she's "chewing" a piece of bread like there's no tomorrow. Taking
+care of a baby during the lockdown was easier than I expected, since for the first two months 
+you are not supposed to go out often. Had a lot of time to play with our both of them, make a
+homelab, and cook. She's now 10 months old and getting ready to start walking.
+
+It also has helped a lot to work from home. I'm spending more time with my daughters than ever
+before. Without commuting, I can use that extra time to get the house a bit more organized and
+clean.
+
+We've also seen more than 40 guppies born (not all are alive, but that's life). We started a tiny
+aquarium with 5 from our friend Brennan and had to expand their habitat quite a lot to make room for
+colorful and sometimes bizarre fishes.
+
+
+### Mapbox's crew
+
+I did a big transition in April. I joined Mapbox as engineering manager of their Tilesets Team. I
+was worried I made a big mistake to make such a move in a year like this one. I couldn't imagine
+what would be to start in a new company during a pandemic, onboard fully remote in an industry that I
+have 0 knowledge about (maps).
+
+But nothing bad happened. Onboarding was pretty smooth. I'm familiar with the technologies and the
+most important part, the crew is fantastic. A team of 15 wonderful people ready to listen to my
+rants and stupid questions about cartography and maps in general. Not all of them are using _vim_
+yet but one step at a time.
+
+Since I started, I've been learning every day about the industry, how to monetize a complex product,
+how to work on different timezones, and a hundred little tricks that help me to overcome the
+problems of not working in an office with peers.
+
+
+### Pandemic
+
+We have been following the COVID-19 recommendations as much as we can. We have seen some
+friends and family getting infected but no serious cases around us. We are also lucky that
+our community and neighbors are taking recommendations very seriously.
+
+But at some point, we had to make some changes at home to keep sanity. Since the public
+transportation wasn't (and still isn't) working well, we decided to buy a car. After 9 years living
+in a US city without one, it was a good change. We found exactly the one we needed and it's
+difficult to imagine what we would do now without it.
+
+Having a car has allow us to discover many remote places in California that don't appear on the
+travel webpages. And for the kids to see a bit of California's wild life. In some moments, the fires
+didn't make it easy, but this state is huge. I recommend a series of books that can help to explore
+California: ["Day Hikes Around" by Robert Stone](http://dayhikebooks.com/).
+
+Another big change was to find a place at home that could be my permanent office set up. The only
+space we have for that is a closet in our hall. I had a lot of fun setting up the ethernet,
+servers, tiny "desk" (not a desk) and a chair that can't move because there's no room. The closet is
+1.5 m by 1.5 m. Honestly I don't recommend it, but it's working so far. After 3 months working
+there, I started to feel back, arms, hands, neck and pretty much everywhere pain.
+
+<div style="text-align:center"><img src="/img/posts/office.png" width="80%"/></div>
+
+All this has taught us that we would need to make even bigger changes on the long run. Not just for
+our kids but for our own sanity. San Francisco is a great city... If you don't have kids, or don't
+need to work from home.
+
+
+### Bye SF
+
+At the beginning of 2021, we are moving to a proper house, with yard and stuff. It's pretty far for
+where we live right now, because it's impossible to get anything big enough for a family near San
+Francisco. Despite this, is all positive changes.
+
+My daughters will get their own room, and a big backyard for playing all they long. My wife gets a
+safe community where she can go out without dealing with the issues that San Francisco currently
+have (you all know what I'm talking about), and I got office space and a BBQ setup.
+
+We are going to miss San Francisco. We have a good life here. But did I tell you that I'm going to
+have my own BBQ? That is priceless. Next is a Costco membership.
+
+
+### Segment acquisition
+
+The big elephant in the room. Segment, a company that I spent 3 years of my career got acquired by
+Twilio, and for my family (and many many others) gave us a breathe room for the future. The amount
+of hard work Segment employees and founders put during these years is incredible. A big chunk of
+that exit will go to future endeavours for a little adventure I want to start soon-ish. I've been
+thinking about it since I started programming, and looks like the stars are getting in the right
+position. Can't share too many details just yet, but as you guessed, it involves ETLs.
+
+Will keep you posted.
+
+
+### Chicken recipe
+
+And let's finish with the star of tonight. I actually don't know how to properly cook a turkey, but
+I get close enough with a medium size chicken and a dutch oven. So here's the recipe that works like
+a charm, it's extremely easy to do and requires little preparation:
+
+**Ingredients**
+
+* A whole chicken
+* 2 onions
+* A couple of carrots
+* A lemon
+* Fresh rosemary
+* Good fresh bread (ciabatta, rustic round, something like that).
+* A can of beer (non-IPA)
+* Chicken stock
+* 4 potatoes
+* Olive oil, salt and black pepper
+
+**Preparation**
+
+1. Preheat the oven at 135°C/275°F.
+1. Remove the skin of the chicken carefully, trying to keep big chunks of it. Reserve in a dish.
+1. Season **a lot** the chicken with salt and pepper.
+1. Halve the onions and place them in the dutch oven with olive oil, at high heat until brown, with a pinch of salt.
+1. Reserve the onions and do the same with the carrots. 1-2 mins max. Reserve.
+1. Put a bit more of olive oil if needed, and place the chicken in the pot, still at high heat, just
+   enough time to brown a bit the outer meat. Take the chicken and place it in a dish.
+1. Add one cup of beer to the pot, and with a wood spoon, scratch the bottom of the pot for a
+   minute, reducing the beer (burning the alcohol) and keeping all the flavors in the liquid.
+1. Put the chicken, the onions, the carrots, fresh rosemary, a couple of lemon slices all in the
+   pot. Add 1 cup of chicken stock and drink whatever is left on the beer can.
+1. Put the lid and introduce the pot on the oven. Leave it there for 2, 2.5 hours.
+1. An hour before your chicken is done, put all that skin in small pieces with salt and pepper in a
+   oven tray. This would be as appetiser or "torreznos". Put the tray into the oven.
+1. 30 mins before your chicken and chicken skin are done, cut the potatoes in slices, put them in a
+   bowl with salt and olive oil. Cover that bowl with a plastic sheet and introduce it in the
+   microwave for 4 minutes.
+1. Take the potatoes, flip them and put them again in the microwave for another 4 minutes.
+1. Take another oven tray, put the "almost cooked" potatoes on it, add a bit of black pepper on top
+   and let it on the oven.
+1. When the chicken is done. Take the pot from the oven, let it rest, and set the oven to "Broil".
+1. Check the potatoes and the skin, they should be crispy in a couple of minutes, but be careful
+   that they could get burnt almost immediately.
+
+At that point, you won't need a knife to cut the chicken. Serve it with the potatoes, and leave the
+liquid on the side to dip some bread. The chicken skin goes perfect with beer. If for some random
+reason you don't finish the chicken, keep the liquid, bones and meat in the fridge to make a soup
+the next day.
+
+---
+
+Not all has been perfect for us this year. We miss our families and we don't know when are we going
+to be able to travel to our countries. However, I couldn't ask for more in 2020. Thank you!
+
+_I'm getting a BBQ, yeeeey._

@@ -80,7 +80,7 @@ _(Oh! Screen break!)_
 1. [x] Week of November 2: [Pulselocker]({% post_url 2020-11-02-pulselocker-days %})
 1. [x] Week of November 9: [A team's vision]({% post_url 2020-11-11-a-teams-vision %})
 1. [x] Week of November 16: [Experiment: Roadmap proposals]({% post_url 2020-11-18-experiment-roadmap %})
-1. [ ] Week of November 23
+1. [x] Week of November 23: [Thanksgiving 2020]({% post_url 2020-11-28-thanksgiving-2020 %})
 1. [ ] Week of November 30
 1. [ ] Week of December 7
 1. [ ] Week of December 14

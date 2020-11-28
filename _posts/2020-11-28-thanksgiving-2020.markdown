@@ -9,14 +9,13 @@ My family and I didn't celebrate Thanksgiving until very recently. Japan and Spa
 tradition but since our 2 kids were born in US, we decided to cook a turkey like any other American
 family.
 
-This year has been estrange at best, like taken from a sci-fi novel. A pandemic has hit hard every
+This year has been estrange at best, taken from a sci-fi novel. A pandemic has hit hard every
 country on Earth, and has change the lifestyle of many of us. But humans adapt (governments do not,
 but that's material for another post).
 
 For my family, we have been extremely lucky in all aspects. Life changes due to the lockdown were
 for the best so far. We are very aware that many families are not this lucky. So in
-this short post, I'm giving thanks for all things that has happened to us during this _weird as 
-shit_ year.
+this short post, I'm giving thanks for all things that has happened to us during this _weird-as-shit_ year.
 
 
 ### The family grew
@@ -35,8 +34,6 @@ We've also seen more than 40 guppies born (not all are alive, but that's life). 
 aquarium with 5 from our friend Brennan and had to expand their habitat quite a lot to make room for
 colorful and sometimes bizarre fishes.
 
-_photo of fishes_
-
 
 ### Mapbox's crew
 
@@ -48,7 +45,7 @@ have 0 knowledge about (maps).
 But nothing bad happened. Onboarding was pretty smooth. I'm familiar with the technologies and the
 most important part, the crew is fantastic. A team of 15 wonderful people ready to listen to my
 rants and stupid questions about cartography and maps in general. Not all of them are using _vim_
-but one step at a time.
+yet but one step at a time.
 
 Since I started, I've been learning every day about the industry, how to monetize a complex product,
 how to work on different timezones, and a hundred little tricks that help me to overcome the
@@ -58,7 +55,7 @@ problems of not working in an office with peers.
 ### Pandemic
 
 We have been following the COVID-19 recommendations as much as we can. We have seen some
-friends and family getting infected and no serious cases around us. We are also lucky that
+friends and family getting infected but no serious cases around us. We are also lucky that
 our community and neighbors are taking recommendations very seriously.
 
 But at some point, we had to make some changes at home to keep sanity. Since the public
@@ -68,16 +65,16 @@ difficult to imagine what we would do now without it.
 
 Having a car has allow us to discover many remote places in California that don't appear on the
 travel webpages. And for the kids to see a bit of California's wild life. In some moments, the fires
-didn't make it easy, but this state is huge. Here's a series of books that can help to explore
-California: Day Hikes Around by Robert Stone.
+didn't make it easy, but this state is huge. I recommend a series of books that can help to explore
+California: ["Day Hikes Around" by Robert Stone](http://dayhikebooks.com/).
 
-Another big change was to find a place at home that could be my permanent office set up. The closest
+Another big change was to find a place at home that could be my permanent office set up. The only
 space we have for that is a closet in our hall. I had a lot of fun setting up the ethernet,
 servers, tiny "desk" (not a desk) and a chair that can't move because there's no room. The closet is
 1.5 m by 1.5 m. Honestly I don't recommend it, but it's working so far. After 3 months working
 there, I started to feel back, arms, hands, neck and pretty much everywhere pain.
 
-_photo of the closet_
+<div style="text-align:center"><img src="/img/posts/office.png" width="80%"/></div>
 
 All this has taught us that we would need to make even bigger changes on the long run. Not just for
 our kids but for our own sanity. San Francisco is a great city... If you don't have kids, or don't
@@ -92,27 +89,29 @@ Francisco. Despite this, is all positive changes.
 
 My daughters will get their own room, and a big backyard for playing all they long. My wife gets a
 safe community where she can go out without dealing with the issues that San Francisco currently
-have (you all know what I'm talking about), and I got a proper office space and a BBQ setup.
+have (you all know what I'm talking about), and I got office space and a BBQ setup.
 
 We are going to miss San Francisco. We have a good life here. But did I tell you that I'm going to
-have my own BBQ? That is priceless. I just need next a Costco membership.
+have my own BBQ? That is priceless. Next is a Costco membership.
 
 
 ### Segment acquisition
 
 The big elephant in the room. Segment, a company that I spent 3 years of my career got acquired by
-Twilio, and for my family (and many many others) gave us a breathe room for the future. A big chunk
-of that exit will go to future endeavours for a little adventure I want to start soon-ish.
+Twilio, and for my family (and many many others) gave us a breathe room for the future. The amount
+of hard work Segment employees and founders put during these years is incredible. A big chunk of
+that exit will go to future endeavours for a little adventure I want to start soon-ish. I've been
+thinking about it since I started programming, and looks like the stars are getting in the right
+position. Can't share too many details just yet, but as you guessed, it involves ETLs.
 
-I've been thinking about it since I started programming, and looks like the stars are getting in the
-right position. Can't share too many details just yet, but as you guessed, it involves ETLs.
+Will keep you posted.
 
 
 ### Chicken recipe
 
-I actually don't know how to properly cook a turkey, but I get close enough with a medium size
-chicken and a dutch oven. So here's the recipe that works like a charm, it's extremely easy to do
-and requires little preparation:
+And let's finish with the star of tonight. I actually don't know how to properly cook a turkey, but
+I get close enough with a medium size chicken and a dutch oven. So here's the recipe that works like
+a charm, it's extremely easy to do and requires little preparation:
 
 **Ingredients**
 
@@ -160,7 +159,7 @@ the next day.
 
 ---
 
-Not all has been perfect for us this year, however positive things overweight the negative ones by
-far. Thank you.
+Not all has been perfect for us this year. We miss our families and we don't know when are we going
+to be able to travel to our countries. However, I couldn't ask for more in 2020. Thank you!
 
-_I'm getting a BBQ, yeeeey_
+_I'm getting a BBQ, yeeeey._

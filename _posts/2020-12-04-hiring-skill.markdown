@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hiring goals
-subtitle: What to look for when hiring for your team
-slug: hiring-goals
+title: Hiring as a skill
+subtitle: Learn and improve from your own mistakes
+slug: hiring-skill
 ---
 
 Recently I've been spending quite a lot of time setting up a sourcing pipeline to grow the team that I'm

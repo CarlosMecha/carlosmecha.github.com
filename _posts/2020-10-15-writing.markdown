@@ -82,11 +82,12 @@ _(Oh! Screen break!)_
 1. [x] Week of November 16: [Experiment: Roadmap proposals]({% post_url 2020-11-18-experiment-roadmap %})
 1. [x] Week of November 23: [Thanksgiving 2020]({% post_url 2020-11-28-thanksgiving-2020 %})
 1. [x] Week of November 30: [Hiring as a skill]({% post_url 2020-12-04-hiring-skill %})
-1. [ ] Week of December 7
-1. [ ] Week of December 14
+1. [ ] ~Week of December 7~
+1. [x] Week of December 14: [Data integrations]({% post_url 2020-12-17-data-integrations %})
 1. [ ] Week of December 21
 1. [ ] Week of December 28
 1. [ ] Week of January 4
+1. [ ] Week of January 10
 
 I don't really care about the content of the posts, length or style, I'm just focusing right now of
 making the habit.

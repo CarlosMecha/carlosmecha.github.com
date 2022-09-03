@@ -12,9 +12,26 @@ description: From time to time, I work as a freelancer for small companies/teams
 
 ### Services
 
-- Design and implement ETL processes.
-- Consulting for project roadmaps.
-- Design projects to integrate with 3rd-party APIs.
-- CI and test audits.
+- API/services backend (C, C++, Java, .Net, Go, Python, Ruby, Javascript, Typescript).
+- CLI apps/tools (Shell, C, C++, Java, .Net, Go, Python, Ruby, Javascript, Typescript).
+- Web frontend (HTML/CSS/JS, React, only for internal/small-audience tools).
+- Mobile (Android, iOS, only for internal/small-audience tools).
+- Infra and DBs (for internal/small-audience tools, not HA).
+- Contractors management and consulting.
+- Engineering management consulting.
+- Integrations consulting.
+- Maintenance of code developed by me & my team.
+
+### Future services
+
+- Web/UI design.
+- Graphics design.
+- UX consulting.
+- Data activation or analytics consulting.
+- Security consulting.
+- DB performance consulting.
+- HA Infra.
+- Large-audience Web/Mobile/Native frontends.
+- Maintenance of code/tools/systems developed by others.
 
 _I really really need to remake that logo or pay someone to do it for me..._

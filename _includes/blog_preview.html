@@ -14,22 +14,9 @@
                 </div>
             </div>
             <div class="row">
-                <ul class="blog-posts">
-                    {% assign content = false %}
-                    {% for post in site.posts %}
-                        {% if post.categories.size == 0 %}
-                            {% assign content = true %}
-                            <li> 
-                                <a href="{{ post.url }}" title="{{ post.subtitle }}">
-                                    {{ post.date | date: "%b %d, %Y" }} - {{ post.title }}
-                                </a>
-                            </li>
-                        {% endif %}
-                    {% endfor %}
-                    {% unless content %}
-                        <li>Nothing to see here yet</li>
-                    {% endunless %}
-                </ul>
+                <div class="text-center">
+                    I moved the blog to <a href="https://carlosmecha.substack.com/">Substack</a>. Please subscribe ;)
+                </div>
             </div>
         </div>
     </section>
